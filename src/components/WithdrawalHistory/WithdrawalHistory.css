@@ -1,0 +1,29 @@
+.withdrawal-history_container {
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+}
+
+.filter-options {
+    margin-bottom: 15px;
+}
+
+.filter-options select {
+    padding: 5px;
+}
+
+.withdrawal-table {
+    width: 100%;
+    margin-top: 10px;
+    border-collapse: collapse;
+}
+
+.withdrawal-table th, .withdrawal-table td {
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+}
+
+.withdrawal-table th {
+    background-color: #f1f1f1;
+    text-align: left;
+}

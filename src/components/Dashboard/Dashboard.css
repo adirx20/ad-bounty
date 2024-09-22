@@ -1,0 +1,22 @@
+.dashboard-container {
+    padding: 20px;
+    background-color: #fff;
+}
+
+.welcome-message {
+    background-color: #f0f8ff;
+    border: 1px solid #b3d9ff;
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.welcome-message h2 {
+    margin: 0;
+    color: #0056b3
+}
+
+.welcome-message p {
+    color: #333;
+}

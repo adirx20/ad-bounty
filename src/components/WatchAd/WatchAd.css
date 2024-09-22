@@ -1,0 +1,21 @@
+.watch-ad {
+    margin-top: 20px;
+}
+
+button {
+    padding: 20px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #218838;
+}
+
+p {
+    margin-top: 10px;
+    color: green;
+}
